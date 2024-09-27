@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\testdevbackjr",
-    "\\testdevbackjr\\Prueba_1"
+    "\\testdevbackjr\\Prueba_1",
+    "\\testdevbackjr\\Prueba_1\\Test",
+    "\\testdevbackjr\\Prueba_2"
   ],
-  "SelectedNode": "\\testdevbackjr\\Prueba_1\\DatosPracticaSQL.xlsx",
+  "SelectedNode": "\\testdevbackjr\\Prueba_2",
   "PreviewInSolutionExplorer": false
 }
